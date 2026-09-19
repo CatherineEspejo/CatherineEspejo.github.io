@@ -21,3 +21,7 @@ Guide the blue crowned snake to the pink food and build your score.
 - Pink food
 - Score and best-score tracking
 - Keyboard and touchscreen controls
+
+### Design Collaboration
+
+The blue-and-pink color palette and crowned snake design were developed with [George Burbano (@Geo-Fett)](https://github.com/Geo-Fett).
